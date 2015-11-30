@@ -1,0 +1,2 @@
+# ptest
+My rails course
